@@ -33,7 +33,7 @@
     "bluebird": "3.5.0",
     "debug": "3.0.0",
     "lodash": "4.17.4",
-    "rabbot": "ugr00p/rabbot.git#masstransit"
+    "rabbot": "ugr00p/rabbot.git#masstransit_1.0.0"
   },
   "devDependencies": {
     "@bubltechnology/customizable-commit-analyzer": "1.0.2-0",
